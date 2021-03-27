@@ -1,0 +1,147 @@
+body {
+	background: #dd0c0c;
+}
+
+.first {
+	text-align: center;
+	background-color: black;
+	color: #dd0c0c;
+	border-radius: 20px;
+}
+h1 {
+	font-size: 50px;
+	transition: 1s;
+}
+h4 {
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+p.p {
+	text-align: center;
+	grid-template-columns: 1fr 1fr;
+	margin-right: 700px;
+    margin-top: -30px;
+    color: #dd0c0c;
+    font-size: 20px;
+}
+p.s {
+	text-align: center;
+	color: #dd0c0c;
+	margin-left: 750px;
+	margin-top: -100px;
+	font-size: 20px;
+}
+
+img.match {
+	height: 100px;
+}
+
+img.actu {
+	border-radius: 20px;
+	margin-left: 50px;
+	margin-bottom: 40px;
+	transition: 1s;
+}
+
+img.manu {
+	height: 400px;
+	border-radius: 20px;
+	margin-left: 770px;
+	margin-top: -465px;
+	margin-bottom: 110px;
+}
+
+
+.banner {
+  background-image: url("https://media.gettyimages.com/photos/milan-team-line-up-prior-to-the-uefa-champions-league-semi-final-leg-picture-id52797974?k=6&m=52797974&s=612x612&w=0&h=2ILijDO5fmkHHjYvc4IEMPwUf1Iyvf_ZHWZm42keH9Q=");
+  height: 37vh;
+  transition: 1s
+  background-position: top;
+  background-size: cover;
+  margin-top: 0px;
+  border-radius: 20px
+}
+
+.button {
+  display: grid;
+  text-decoration-color: #dd0c0c;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 0px;
+  transition: 1s;
+  background-color: black;
+  color: #dd0c0c;
+  border: 2px solid #colo;
+  border-radius: 20px;
+}
+
+.police {
+	color: #dd0c0c;
+	margin: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.cardss {
+	display: grid;
+	grid-template-columns: 25fr 100fr 0fr;
+	color: white;
+	white-space: 20px;
+	margin-left: 555px;
+	text-align: center;
+}
+
+.card {
+	background-color: white;
+	  width: 100px;
+	  padding: 10px;
+	  border-radius: 7px;
+	  box-shadow: 1px 1px 1px;
+	  margin-top: 100px;
+}
+
+.back {
+	background-color: #dd0c0c;
+}
+
+.match {
+	font-size: 3px;
+	text-align: center;
+	background-color: : #af1111;
+}
+
+.text {
+	text-align: center;
+	font-size: 20px;
+	background-color: black;
+	color: #dd0c0c;
+	border-radius: 20px;
+}
+
+.centre {
+	text-align: center;
+}
+.four {
+	background-color: black;
+	margin-top: 80px;
+	border-radius: 20px;
+	grid-template-columns: 1fr 1fr 1fr;
+	color: #dd0c0c;
+}
+
+.logo {
+	background-color: black;
+	color: #dd0c0c;
+	text-align: center;
+	margin-top: 50px;
+	border-radius: 20px;
+	width: 550px;
+	margin: 24px auto;
+	grid-template-columns: 1fr 1fr 1fr
+	padding: 24px 0px;
+}
+
+.fab {
+padding: 15;
+font-size: 50px;
+color: #dd0c0c;
+}
